@@ -1,0 +1,13 @@
+# Gold Silver Acupuncture
+
+> Traditional Chinese Medicine and acupuncture clinic in Columbus, OH, led by Dr. Xiumei Geng. Treats pain, migraines, women's health, anxiety, digestive issues, insomnia, and sports recovery.
+
+Gold Silver Acupuncture provides personalized acupuncture and cupping therapy in a tranquil setting. Located at 4700 Reed Rd Suite F2, Columbus, OH 43220. Phone: (614) 270-7827. Booking handled externally via Jane App.
+
+## Pages
+
+- [Home](/): Overview of the clinic, services, Dr. Geng's expertise, testimonials, and contact info.
+
+## Optional
+
+- [Book an appointment](https://gsacupuncture.janeapp.com): External scheduling via Jane App.
